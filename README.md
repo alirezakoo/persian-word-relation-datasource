@@ -37,4 +37,13 @@ FROM  WordRelation INNER JOIN
 ## Result:
 ![image](https://user-images.githubusercontent.com/8724064/155153741-84e9a5da-6203-4498-a240-f069797efbf0.png)
 ![image](https://user-images.githubusercontent.com/8724064/155155228-a9e7a7a0-3c0c-4932-a789-0643bc44fd4d.png)
+![image](https://user-images.githubusercontent.com/8724064/155155501-eb94cb51-fdc9-4c74-896d-7377e2f31e34.png)
+
+# donate
+Bitcoin:    
+![image](https://user-images.githubusercontent.com/8724064/155159294-638e8edd-2de7-4f7b-bf32-c4051e8d769b.png)
+
+ETH:
+![image](https://user-images.githubusercontent.com/8724064/155159243-793cfd23-aca0-4223-9965-4848577d7085.png)
+
 
