@@ -36,3 +36,5 @@ FROM  WordRelation INNER JOIN
 
 ## Result:
 ![image](https://user-images.githubusercontent.com/8724064/155153741-84e9a5da-6203-4498-a240-f069797efbf0.png)
+![image](https://user-images.githubusercontent.com/8724064/155155228-a9e7a7a0-3c0c-4932-a789-0643bc44fd4d.png)
+
