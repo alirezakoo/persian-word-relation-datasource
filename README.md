@@ -1,6 +1,10 @@
 # persian-word-relation-datasource
-a comprehensive and structured knowledge base of the apparent and semantic relationship of all Persian words
-requirement: 
+- a comprehensive and structured knowledge base of the apparent and semantic relationship of all Persian words
+- more than 50,000 persian words
+- more than 86,000 relationship between words
+- compute similarity string between words with multiple algorithms
+
+## requirement: 
 SQL Server 2016 and above versions
 
 ![image](https://user-images.githubusercontent.com/8724064/155145697-2f863c43-64f5-49d0-8aa1-dd5e0ecdb519.png)
@@ -30,5 +34,5 @@ FROM  WordRelation INNER JOIN
       ord AS Word_1 ON WordRelation.WordID2 = Word_1.WordID
 ```
 
-# Result:
+## Result:
 ![image](https://user-images.githubusercontent.com/8724064/155153741-84e9a5da-6203-4498-a240-f069797efbf0.png)
