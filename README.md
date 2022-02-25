@@ -1,4 +1,4 @@
-# persian-word-relation-datasource
+# persian-words-relation-datasource
 - a comprehensive and structured knowledge base of the apparent and semantic relationship of all Persian words
 - more than 50,000 persian words
 - more than 86,000 relationship between words
