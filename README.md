@@ -1,9 +1,10 @@
 # persian-words-relation-datasource
+[![Build Status](https://github.com/twbs/icons/workflows/Tests/badge.svg)](https://github.com/twbs/icons/actions?workflow=Tests)
 - a comprehensive and structured knowledge base of the apparent and semantic relationship of all Persian words
 - more than 50,000 persian words
 - more than 86,000 relationship between words
 - compute similarity string between words with multiple algorithms
-[![Build Status](https://github.com/twbs/icons/workflows/Tests/badge.svg)](https://github.com/twbs/icons/actions?workflow=Tests)
+
 
 ## requirement: 
 SQL Server 2016 and above versions
